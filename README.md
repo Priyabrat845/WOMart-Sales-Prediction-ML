@@ -1,1 +1,1 @@
-# WOMart-Sales-Prediction-ML
+# WOMart-Sales-Prediction-M
